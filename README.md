@@ -11,4 +11,4 @@
 #### Optimized for speed
 * PageSpeed Score: 99/100
 * YSlow Score: 99/100
-* Loads in less than half a second: [See GTMetrix report](https://raw.githubusercontent.com/SiamKreative/julien.vernet.me/master/screenshot-gtmetrix.com%202016-05-13%2011-40-19.png)
+* Loads in less than half a second: [See GTMetrix report](http://i.imgur.com/yg7Pk9K.png)
