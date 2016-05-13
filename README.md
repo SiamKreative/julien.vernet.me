@@ -7,3 +7,8 @@
 * Makes heavy use of CSS animation
 * Hosted on [Surge](https://surge.sh/)
 * HTTP/2 & SSL from [Cloudflare](https://www.cloudflare.com/)
+
+#### Optimized for speed
+* PageSpeed Score: 99/100
+* YSlow Score: 99/100
+* Loads in less than one second: [See GTMetrix report](https://raw.githubusercontent.com/SiamKreative/julien.vernet.me/master/screenshot-gtmetrix.com%202016-05-11%2016-10-21.png)
